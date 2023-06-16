@@ -13,4 +13,6 @@ Resume: [Link↗](https://drive.google.com/file/d/1BM8Q_P4Yk7Qf18sZStNWURaa3mPvV
 
 
 Project Links:
-1. 
+1. [Breast Cancer Prediction and Model Comparison](https://github.com/saij19/Breast-Cancer-Detection)
+2. [AgriDoc: Agricultural Robot](https://github.com/saij19/Agri-Doc-Final-Year-Proj-)
+3. [Forest-Cop-ter](https://github.com/saij19/Forest-cop-ter)
