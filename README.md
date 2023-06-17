@@ -9,7 +9,6 @@
 - Developed simulations for automatic bore cleaning machine using CLoudeComapre.
 - Proficient in mathematics including Linear Algebra, Probability & Statistics.
 
-Resume: [Link↗](https://drive.google.com/file/d/1BM8Q_P4Yk7Qf18sZStNWURaa3mPvVfK-/view?usp=share_link)
 
 
 Project Links:
