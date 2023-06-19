@@ -2,7 +2,7 @@
 <h3 align="center">Passionate engineering student in the final semester, diving deep into the world of AI to unravel its boundless possibilities.</h3>
 
 ## Currently I am working as an AI/ML Intern at Griffyn Robotech, Pune and worked on:
-- Trained YOLOv5 model with 90% mAP to detect aerial target for gimabal based surveillance system.
+- Trained YOLOv5 model to detect aerial target for gimabal based surveillance system.
 - Trained various Custom Classification models and deployed on Jetson Xavier NX following YOLOv5 model i.e. dual model inferencing.
 - Used Slice Aided Hyper Inferencing (SAHI) for tiny object detection.
 - Trained UNET++ for metric based evaluation system.
