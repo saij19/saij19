@@ -5,7 +5,7 @@
 Hello! I'm Saijal Singhal, a dedicated AI Engineer with a strong passion for exploring the infinite possibilities of artificial intelligence. In my journey, I have had the privilege of working on cutting-edge projects and contributing to the ever-evolving field of AI.
 
 ## Professional Experience
-🚀 **AI Engineer at Sphere** (July 2023 - Present)
+🚀 **AI Engineer at Sphere** (July 2023 - July 2024)
 - 🌟 Leading the end-to-end development of an automated computer vision system for car damage detection.
 - 🤖 Developing and optimizing YOLO-based object detection models tailored specifically for car damage detection.
 - 📊 Spearheading data collection efforts, ensuring diverse datasets for robust model training.
