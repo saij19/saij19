@@ -27,10 +27,10 @@ Hello! I'm Saijal Singhal, a Computer Engineering student with a strong foundati
 
 ## Education
 🇩🇰 MSc. Computer Engineering | Aarhus University, Denmark
-Specializing in Deep Learning, Software Systems, and Computer Vision.
+- Specializing in Deep Learning, Software Systems, and Computer Vision.
 
 🇮🇳 B.Tech. Electronics & Telecommunication Engineering with minor in Data Science | Symbiosis International University, India
-Received the Reliance Foundation Scholarship
+- Received the Reliance Foundation Scholarship
 
 ## Connect with Me
 🌐 [LinkedIn](https://www.linkedin.com/in/saijal-singhal-72897b1b5/)
