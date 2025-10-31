@@ -1,4 +1,4 @@
-<h1 align="center">Saijal Singhal 👩🏻‍💻</h1>
+<h1 align="center">[Saijal Singhal](https://saijalsinghal.framer.website/) 👩🏻‍💻</h1> 
 <h3 align="center">AI Engineer on a mission to reshape reality through intelligent machines</h3>
 
 ## About Me
