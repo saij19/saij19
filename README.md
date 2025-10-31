@@ -1,8 +1,18 @@
-<h1 align="center">[Saijal Singhal](https://saijalsinghal.framer.website/) 👩🏻‍💻</h1> 
+<h1 align="center">
+  <a href="https://saijalsinghal.framer.website/" target="_blank" style="text-decoration:none; color:inherit;">
+    Saijal Singhal 👩🏻‍💻 <span style="font-size:0.8em;">↗</span>
+  </a>
+</h1>
 <h3 align="center">AI Engineer on a mission to reshape reality through intelligent machines</h3>
+
 
 ## About Me
 Hello! I'm Saijal Singhal, a Computer Engineering student with a strong foundation in Artificial Intelligence and Computer Vision. I love building intelligent systems and in my journey, I have had the privilege of working on cutting-edge projects and contributing to the ever-evolving field of AI. Outside of tech, I’m passionate about UX design, painting, and calligraphy — and I believe creativity fuels innovation, even in code!
+
+## Some interesting Project Links:
+1. [Multi-Method Analysis for Optimal Skin Lesion Detection - Combining Images, Metadata, and Fusion Models for Skin Cancer Classification](https://github.com/saij19/multi_method_analysis_skin_lesion_detection)
+2. [AgriDoc: Agricultural Robot](https://github.com/saij19/Agri-Doc-Final-Year-Proj-)
+3. [Forest-Cop-ter](https://github.com/saij19/Forest-cop-ter)
 
 ## Professional Experience
 
@@ -33,13 +43,10 @@ Hello! I'm Saijal Singhal, a Computer Engineering student with a strong foundati
 - Received the Reliance Foundation Scholarship
 
 ## Connect with Me
-🌐 [LinkedIn](https://www.linkedin.com/in/saijal-singhal-72897b1b5/)
+🔗 [Personal Website](https://saijalsinghal.framer.website/)
 
-📧 Email: saijalsinghal@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/saijal-singhal-72897b1b5/)
 
-Project Links:
-1. [Breast Cancer Prediction and Model Comparison](https://github.com/saij19/Breast-Cancer-Detection)
-2. [AgriDoc: Agricultural Robot](https://github.com/saij19/Agri-Doc-Final-Year-Proj-)
-3. [Forest-Cop-ter](https://github.com/saij19/Forest-cop-ter)
+📧 [saijalsinghal@gmail.com](mailto:saijalsinghal@gmail.com)
 
 Feel free to connect with me, and let's explore the world of AI together! 🤖✨
