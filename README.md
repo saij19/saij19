@@ -10,15 +10,18 @@
 Hello! I'm Saijal Singhal, a Computer Engineering student with a strong foundation in Artificial Intelligence and Computer Vision. I love building intelligent systems and in my journey, I have had the privilege of working on cutting-edge projects and contributing to the ever-evolving field of AI. Outside of tech, I’m passionate about UX design, painting, and calligraphy — and I believe creativity fuels innovation, even in code!
 
 ## Some interesting Project Links:
-1. [Multi-Method Analysis for Optimal Skin Lesion Detection - Combining Images, Metadata, and Fusion Models for Skin Cancer Classification](https://github.com/saij19/multi_method_analysis_skin_lesion_detection)
-2. [AgriDoc: Agricultural Robot](https://github.com/saij19/Agri-Doc-Final-Year-Proj-)
-3. [Forest-Cop-ter](https://github.com/saij19/Forest-cop-ter)
+1. [Gesture Recognition: Spiking vs. Polynomial Kernels](https://github.com/saij19/GestureRecognition_Spiking_vs_Polynomial)
+2. [Multi-Method Analysis for Optimal Skin Lesion Detection - Combining Images, Metadata, and Fusion Models for Skin Cancer Classification](https://github.com/saij19/multi_method_analysis_skin_lesion_detection)
+3. [VR Game - Wizard's Dungeon Laboratory](https://github.com/saij19/VR_game)
+4. [AgriDoc: Agricultural Robot](https://github.com/saij19/Agri-Doc-Final-Year-Proj-)
+5. [Forest-Cop-ter](https://github.com/saij19/Forest-cop-ter)
+
 
 ## Professional Experience
 
-🧠 **Teaching Assistant — Data Structures in C++** | Aarhus University | Sept 2025 – Present
-- Assisting students with weekly coding exercises and conceptual understanding.
-- Providing constructive feedback on submitted programming assignments.
+🧠 **Teaching Assistant** | Aarhus University | Sept 2025 – Present
+- [Computer Vision](https://kursuskatalog.au.dk/en/course/138232/Computer-Vision),[Systems Engineering](https://kursuskatalog.au.dk/en/course/138224/Systems-Engineering)
+- [Algorithms and Data Structures](https://kursuskatalog.au.dk/en/course/134563/Algorithms-and-Data-Structures)
 
 **🌍 Student Research Assistant — AI for CO₂ Optimization in Construction** | Aarhus University | Oct 2024 – Jul 2025
 - Developed ML-driven solutions for CO₂ emission tracking and optimization in construction sites.
